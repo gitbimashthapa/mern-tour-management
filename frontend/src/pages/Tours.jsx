@@ -1,3 +1,4 @@
+//import react module
 import React from "react";
 
 const Tours = () => {
@@ -5,3 +6,4 @@ const Tours = () => {
 };
 
 export default Tours;
+
